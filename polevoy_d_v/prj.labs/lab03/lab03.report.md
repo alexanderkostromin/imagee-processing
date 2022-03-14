@@ -2,7 +2,7 @@
 автор: Костромин А.Ю.
 дата: 2022-03-14T03:56:09
 
-url: [GitHub](hhttps://github.com/alexanderkostromin/imagee-processing/tree/master/polevoy_d_v/prj.labs/lab03)
+url: [GitHub](https://github.com/alexanderkostromin/imagee-processing/tree/master/polevoy_d_v/prj.labs/lab03)
 
 ### Задание
 1. В качестве тестового использовать изображение data/cross_0256x0256.png
